@@ -12,3 +12,12 @@ For knowing your RFID tag id there is another code , in which we have to scan ou
 Now update your rfid id in the google sheet.
 
 When code will run and you have to scan your rfid id , if your id will matched gate will get automatically open.
+
+
+
+->RFID NO. CODE WILL HELP YOU TO GENERATE YOUR RFID TAG ID.
+-
+->FIRSTLY WE HAVE TO CONNECT ESP MODULE SO DATA PUBLISH IN GOOGLE SHEET.
+-
+->GOOGLE SHEET CONTAINS THE NAME AND ID OF THE MEMBER WHO CAN OPEN THE DOORLOCK.
+-
